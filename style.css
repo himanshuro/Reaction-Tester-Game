@@ -1,0 +1,16 @@
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+
+#header{
+    text-align: center;
+}
+
+#text{
+    font-weight: bold;
+    font-family: sans-serif;
+}
